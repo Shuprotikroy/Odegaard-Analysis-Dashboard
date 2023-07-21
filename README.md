@@ -1,3 +1,6 @@
+
+
+![output](https://github.com/Shuprotikroy/Odegaard-Analysis-Dashboard/assets/70252750/8fe267c0-2472-4270-bd74-ab7a6f0db6b6)
 # Odegaard-Analysis-Project
 Collection of relevant data, visualization and analysis of Martin Odegaard's performance in his current sensational form with the help of python and various other libraries.
 
